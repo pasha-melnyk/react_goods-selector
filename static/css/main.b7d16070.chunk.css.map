@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAGI,sBACE,wBAA4B,CAC7B,eAMD,oBAAqB","file":"main.b7d16070.chunk.css","sourcesContent":["// styles go here\n.list {\n  &__item {\n    &--selected {\n      background-color: aquamarine;\n    }\n  }\n}\n\n.button {\n  &__clear {\n    display: inline-block;\n  }\n}\n"]}
